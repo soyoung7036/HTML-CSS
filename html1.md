@@ -38,7 +38,7 @@ style 엘리먼트를 지우고
 <link rel=stylesheet href=style.css>
 ```
 를 넣어준다   
-##버튼
+## 버튼넣기
 ```
 <button type="button" onclick="javascript:alert('click button!');">Click</button>
 ```
